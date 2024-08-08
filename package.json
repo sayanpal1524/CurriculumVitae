@@ -1,0 +1,25 @@
+{
+  "name": "curriculumvitae",
+  "version": "1.0.0",
+  "description": "MyCurriculumVitaeProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayanpal1524/CurriculumVitae.git"
+  },
+  "keywords": [
+    "myCV"
+  ],
+  "author": "Sayan Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayanpal1524/CurriculumVitae/issues"
+  },
+  "homepage": "https://github.com/sayanpal1524/CurriculumVitae#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
