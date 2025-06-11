@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\bin\Debug\net8.0\MyResume.Domain.deps.json
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\bin\Debug\net8.0\MyResume.Domain.dll
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\bin\Debug\net8.0\MyResume.Domain.pdb
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\MyResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\MyResume.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\MyResume.Domain.AssemblyInfo.cs
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\MyResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\MyResume.Domain.sourcelink.json
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\MyResume.Domain.dll
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\refint\MyResume.Domain.dll
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\MyResume.Domain.pdb
+C:\Users\USER\Documents\Git Repository\CurriculumVitae\MyResume\MyResume\MyResume.Domain\obj\Debug\net8.0\ref\MyResume.Domain.dll

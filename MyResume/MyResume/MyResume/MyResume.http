@@ -1,0 +1,6 @@
+@MyResume_HostAddress = http://localhost:5225
+
+GET {{MyResume_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
