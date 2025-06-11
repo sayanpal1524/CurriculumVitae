@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B151C5-8991-44C5-817B-E5279DB57E8A}|MyResume.Infrastructure\\MyResume.Infrastructure.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume.infrastructure\\data\\resumedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B151C5-8991-44C5-817B-E5279DB57E8A}|MyResume.Infrastructure\\MyResume.Infrastructure.csproj|solutionrelative:myresume.infrastructure\\data\\resumedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B151C5-8991-44C5-817B-E5279DB57E8A}|MyResume.Infrastructure\\MyResume.Infrastructure.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B151C5-8991-44C5-817B-E5279DB57E8A}|MyResume.Infrastructure\\MyResume.Infrastructure.csproj|solutionrelative:myresume.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume\\services\\resumehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|solutionrelative:myresume\\services\\resumehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume\\controllers\\myresumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|solutionrelative:myresume\\controllers\\myresumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC01F24-0DE8-4161-885F-E64A81142118}|MyResume.Domain\\MyResume.Domain.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume.domain\\myresume.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FC01F24-0DE8-4161-885F-E64A81142118}|MyResume.Domain\\MyResume.Domain.csproj|solutionrelative:myresume.domain\\myresume.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|solutionrelative:myresume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B151C5-8991-44C5-817B-E5279DB57E8A}|MyResume.Infrastructure\\MyResume.Infrastructure.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume.infrastructure\\myresume.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9B151C5-8991-44C5-817B-E5279DB57E8A}|MyResume.Infrastructure\\MyResume.Infrastructure.csproj|solutionrelative:myresume.infrastructure\\myresume.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume\\myresume.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|solutionrelative:myresume\\myresume.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC01F24-0DE8-4161-885F-E64A81142118}|MyResume.Domain\\MyResume.Domain.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume.domain\\entities\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC01F24-0DE8-4161-885F-E64A81142118}|MyResume.Domain\\MyResume.Domain.csproj|solutionrelative:myresume.domain\\entities\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC01F24-0DE8-4161-885F-E64A81142118}|MyResume.Domain\\MyResume.Domain.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume.domain\\interfaces\\iresumedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC01F24-0DE8-4161-885F-E64A81142118}|MyResume.Domain\\MyResume.Domain.csproj|solutionrelative:myresume.domain\\interfaces\\iresumedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|c:\\users\\user\\documents\\git repository\\curriculumvitae\\myresume\\myresume\\myresume\\model\\response\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B749DA5-5993-4762-9419-D9B4A2282383}|MyResume\\MyResume.csproj|solutionrelative:myresume\\model\\response\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Program.cs",
+              "RelativeDocumentMoniker": "MyResume\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Program.cs",
+              "RelativeToolTip": "MyResume\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:53:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResumeDao.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Infrastructure\\Data\\ResumeDao.cs",
+              "RelativeDocumentMoniker": "MyResume.Infrastructure\\Data\\ResumeDao.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Infrastructure\\Data\\ResumeDao.cs",
+              "RelativeToolTip": "MyResume.Infrastructure\\Data\\ResumeDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:31:15.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResumeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Services\\ResumeHelper.cs",
+              "RelativeDocumentMoniker": "MyResume\\Services\\ResumeHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Services\\ResumeHelper.cs",
+              "RelativeToolTip": "MyResume\\Services\\ResumeHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:30:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyResumeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Controllers\\MyResumeController.cs",
+              "RelativeDocumentMoniker": "MyResume\\Controllers\\MyResumeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Controllers\\MyResumeController.cs",
+              "RelativeToolTip": "MyResume\\Controllers\\MyResumeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:13:35.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyResume.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "MyResume.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:00:11.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Domain\\Entities\\Resume.cs",
+              "RelativeDocumentMoniker": "MyResume.Domain\\Entities\\Resume.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Domain\\Entities\\Resume.cs",
+              "RelativeToolTip": "MyResume.Domain\\Entities\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:58:50.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyResume.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Domain\\MyResume.Domain.csproj",
+              "RelativeDocumentMoniker": "MyResume.Domain\\MyResume.Domain.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Domain\\MyResume.Domain.csproj",
+              "RelativeToolTip": "MyResume.Domain\\MyResume.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T08:56:26.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyResume.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Infrastructure\\MyResume.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MyResume.Infrastructure\\MyResume.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Infrastructure\\MyResume.Infrastructure.csproj",
+              "RelativeToolTip": "MyResume.Infrastructure\\MyResume.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T08:53:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyResume.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\MyResume.csproj",
+              "RelativeDocumentMoniker": "MyResume\\MyResume.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\MyResume.csproj",
+              "RelativeToolTip": "MyResume\\MyResume.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T06:18:26.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IResumeDao.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Domain\\Interfaces\\IResumeDao.cs",
+              "RelativeDocumentMoniker": "MyResume.Domain\\Interfaces\\IResumeDao.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume.Domain\\Interfaces\\IResumeDao.cs",
+              "RelativeToolTip": "MyResume.Domain\\Interfaces\\IResumeDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:33:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Model\\Response\\Resume.cs",
+              "RelativeDocumentMoniker": "MyResume\\Model\\Response\\Resume.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Git Repository\\CurriculumVitae\\MyResume\\MyResume\\MyResume\\Model\\Response\\Resume.cs",
+              "RelativeToolTip": "MyResume\\Model\\Response\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:06:30.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
